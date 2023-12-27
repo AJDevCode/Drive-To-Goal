@@ -58,5 +58,7 @@ Assumes a clear path with no obstacles.
 
 ## Technologies Used
 Python
+
 Gazebo Simulator
+
 Ros2 Humble
